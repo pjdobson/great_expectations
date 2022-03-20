@@ -15,6 +15,10 @@ authors:
 ### Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra nam libero justo laoreet. Hendrerit gravida rutrum quisque non. Mauris pellentesque pulvinar pellentesque habitant morbi. Sed enim ut sem viverra aliquet eget. A diam maecenas sed enim ut sem viverra aliquet eget. Non sodales neque sodales ut etiam sit amet nisl. Fermentum iaculis eu non diam.
 
+### Technical background
+If we transcode the firmware, we can get to the SDRAM hard drive through the neural ADP sensor! Flux capacitors, potentiometers,
+resistors, transistors, gates, breadboard, solder and wire.
+
 :::note Prerequisites
  - Req1 
  - Req2 
@@ -91,3 +95,7 @@ If you're a premium paid customer, feel free to open a support ticket in [your s
  - How do you beat Starscourge Radhan?
    - We don't know but let us know if you find out!
 
+### (Optional) Other resources
+
+ - Possibly a video walk-through
+ - Link to a relevant tutorial
