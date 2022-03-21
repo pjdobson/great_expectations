@@ -28,6 +28,11 @@ resistors, transistors, gates, breadboard, solder and wire.
  - Req3
 :::
 
+### Dev loops unlocked by integration
+* Deploy magnetic interfaces
+* Optimize distributed interfaces
+* Embrace granular bandwidth
+
 ### Setup
 Consequat interdum varius sit amet mattis vulputate enim nulla. Ipsum a arcu cursus vitae congue mauris rhoncus aenean.
 Nunc sed velit dignissim sodales ut eu.
